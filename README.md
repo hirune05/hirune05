@@ -22,16 +22,16 @@
 
 ## 🏅 Achievements and Awards
 ### 2022
-- September 17: Civictech Challenge Cup U22 - **AWS賞**, **Salesforce賞**
-- December 17: HACK U KOSEN - **出場**
+- September 17: [Civictech Challenge Cup U22](https://ccc2022.code4japan.org/) - **AWS賞**, **Salesforce賞**
+- December 17: [HACK U KOSEN](https://hacku.yahoo.co.jp/kosen2022/) - **出場**
 ### 2023
-- February: 大学コンソーシアム石川 - **大学ポスター優秀賞**
-- March 18-19: ものづくりハッカソン - **リコーITソリューションズ賞**
-- March 30: 高専インカレチャレンジ第３弾 - **努力賞（ANA様より）**
-- October 14-15: 高専プロコン - **本戦出場**
+- February: [大学コンソーシアム石川](https://www.ucon-i.jp/newsite/2023/02/) - **大学ポスター優秀賞**
+- March 18-19: [ものづくりハッカソン](https://www.hokuriku-u.ac.jp/sptopics/202303271208.html) - **リコーITソリューションズ賞**
+- March 30: [高専インカレチャレンジ第３弾](https://www.smbcnikko.co.jp/fs/kosen/202205/) - **努力賞（ANA様より）**
+- October 14-15: [高専プロコン 課題部門](https://www.procon.gr.jp/?cat=1683) - **本戦出場**
 ### 2024
-- January: 第二回AIステップ - **特別賞**
-- March 29: DOTS to CODE - **AWS賞**
+- January: [第二回AIステップ](https://ai-step.ec.t.kanazawa-u.ac.jp/) - **特別賞**
+- March 29: [DOTS to CODE](https://dotstocode.studio.site/) - **AWS賞**
 
 
 
