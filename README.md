@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Miho
-## An information technology student at KOSEN. An app development hobbyist.
+### An information technology student at KOSEN. An app development hobbyist.
 
 - Twitter: [@hirunesCraft](https://twitter.com/xjapanofficial?lang=ja)
 - GitHub: [@hirune05](https://github.com/hirune05/)
