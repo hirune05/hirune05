@@ -31,6 +31,7 @@
 - October 14-15: [高専プロコン 課題部門](https://www.procon.gr.jp/?cat=1683) - **本戦出場**
 ### 2024
 - January: [第二回AIステップ](https://ai-step.ec.t.kanazawa-u.ac.jp/) - **特別賞**
+- February: [Tokyo OSS Party](https://fukuno.jig.jp/4204) - **総合3位**
 - March 29: [DOTS to CODE](https://dotstocode.studio.site/) - **AWS賞**
 
 
