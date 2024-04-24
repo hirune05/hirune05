@@ -9,7 +9,7 @@
 ## About
 自己紹介や過去に作成した作品など掲載しています。ぜひご覧ください。
 
-https://www.instagram.com/reel/C1hbPQfBhPm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+https://pale-roadway-58e.notion.site/PR-369d309018344937822e3d6e9ba34a67
 
 ## 💻 Tech Stack:
 ### Languages:
