@@ -8,7 +8,7 @@
 ## About
 自己紹介や過去に作成した作品など掲載しています。ぜひご覧ください。
 
-/PR-2c35dc71965d80d1878cfb488cfa6a8e?source=copy_link
+https://pale-roadway-58e.notion.site/PR-2c35dc71965d80d1878cfb488cfa6a8e
 
 
 
