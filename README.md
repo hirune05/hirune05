@@ -1,15 +1,14 @@
 # Hi there 👋, I'm Miho
 ### An information technology student at KOSEN. An app development hobbyist.
 
-- X: [@hirunesCraft](https://twitter.com/hirunesCraft)
-- GitHub: [@hirune05](https://github.com/hirune05/)
 - Qiita: [@hirune](https://qiita.com/hirune)
+- LinkedIn: [@TajimaMiho](https://www.linkedin.com/in/miho-tajima-b1b43537a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - Instagram: [@hiruneslab_0.0](https://www.instagram.com/hiruneslab_0.0/)
 
 ## About
 自己紹介や過去に作成した作品など掲載しています。ぜひご覧ください。
 
-https://pale-roadway-58e.notion.site/PR-369d309018344937822e3d6e9ba34a67
+/PR-2c35dc71965d80d1878cfb488cfa6a8e?source=copy_link
 
 ## 💻 Tech Stack:
 ### Languages:
