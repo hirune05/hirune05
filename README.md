@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Miho
-### An information technology student at KOSEN. An app development hobbyist.
 
+## Social
 - Qiita: [@hirune](https://qiita.com/hirune)
 - LinkedIn: [@TajimaMiho](https://www.linkedin.com/in/miho-tajima-b1b43537a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - Instagram: [@hiruneslab_0.0](https://www.instagram.com/hiruneslab_0.0/)
