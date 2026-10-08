@@ -4,7 +4,7 @@
 - Qiita: [@hirune](https://qiita.com/hirune)
 - はてなブログ: [@hirune05](https://blog.hatena.ne.jp/hirune05/)
 - Note: [@miho](https://note.com/huge_zinnia2194)
-- X: [@_miho_tajima](https://note.com/huge_zinnia2194)
+- X: [@_miho_tajima](https://x.com/_miho_tajima?s=11)
 - Instagram: [@hiruneslab_0.0](https://www.instagram.com/hiruneslab_0.0/)
 - LinkedIn: [@TajimaMiho](https://www.linkedin.com/in/miho-tajima-b1b43537a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
